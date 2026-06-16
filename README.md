@@ -18,4 +18,4 @@ I’m a Full Stack Developer and AI Integrator focused on building scalable, int
 ## 📫 Connect
 - uritik99@gmail.com
 - linkedin.com/in/ritik-undirwade-92a60b254/
-- github.com/ri-ti-k
+- github.com/ri-ti-k 
