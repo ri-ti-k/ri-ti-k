@@ -1,6 +1,6 @@
 # Hi, I’m Ritik 👋
 
-I’m a Full Stack Developer and AI Integrator focused on building scalable, intelligent, and global web applications.
+I’m a Full Stack Developer and AI Integrator focused on building scalable, intelligent, and global web applications. My corporate GitHub showcase bridges the gap between robust Full Stack architectures and AI/LLM integrations.
 
 ## 🧠 What I build
 - AI document assistants with OpenAI, LangChain, and Pinecone
