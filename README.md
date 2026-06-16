@@ -1,6 +1,6 @@
 # Hi, I’m Ritik 👋
 
-I’m a Full Stack Developer and AI Integrator focused on building scalable, intelligent, and global web applications. 
+I’m a Full Stack Developer and AI Integrator focused on building scalable, intelligent, and global web applications.
 
 ## 🧠 What I build
 - AI document assistants with OpenAI, LangChain, and Pinecone
@@ -8,7 +8,7 @@ I’m a Full Stack Developer and AI Integrator focused on building scalable, int
 - APIs & backend systems with Node.js, Express, Python, and FastAPI
 
 ## 🚀 Skills
- JavaScript · React · Next.js · TypeScript · Node.js · FastAPI · MongoDB · PostgreSQL · OpenAI · LangChain · Pinecone · Docker · AWS · CI/CD
+JavaScript · React · Next.js · TypeScript · Node.js · FastAPI · MongoDB · PostgreSQL · OpenAI · LangChain · Pinecone · Docker · AWS · CI/CD
 
 ## 📌 Featured
 - **IntelliDocs-Ai** — AI-powered document chatbot
@@ -18,4 +18,4 @@ I’m a Full Stack Developer and AI Integrator focused on building scalable, int
 ## 📫 Connect
 - uritik99@gmail.com
 - linkedin.com/in/ritik-undirwade-92a60b254/
-- github.com/ri-ti-k 
+- github.com/ri-ti-k
